@@ -35,18 +35,19 @@ p{
   text-align: center;
 }
 
-p.heading{
+h1{
   max-width: 250px;
   font-weight: 700;
   font-size: 20px;
   margin: 0;
   margin-bottom: 24px;
-  color: black;
+  color: #1f3251;
+  margin-top: 14px;
+  text-align: center;
 }
 
 img{
   margin: 16px;
-  margin-bottom: 30x;
   border-radius: 10px;
 }
 
