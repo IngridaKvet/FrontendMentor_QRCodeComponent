@@ -16,7 +16,7 @@ body{
 
 .container{
   background-color: white;
-  border-radius: 10px;
+  border-radius: 20px;
   display: flex;
   flex-direction: column;
   max-width: fit-content;
@@ -33,6 +33,7 @@ p{
   margin: 0;
   margin-bottom: 44px;
   text-align: center;
+  max-height: 49px;
 }
 
 h1{
@@ -44,6 +45,7 @@ h1{
   color: #1f3251;
   margin-top: 14px;
   text-align: center;
+  max-height: 44px;
 }
 
 img{
